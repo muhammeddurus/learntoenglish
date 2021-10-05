@@ -1,0 +1,52 @@
+[
+    {
+      "en":"First come, first served",
+      "tr":"İlk gelen, ilk hizmet(servis) alır.",
+      "sound_src":"assets/sounds/1_en.mp3"
+    },
+    {
+      "en":"Better late than never",
+      "tr":"Hiç olmamasındansa geç olması iyidir.",
+      "sound_src":"assets/sounds/2_en.mp3"
+    },
+    {
+      "en":"There’s no such a thing as a free lunch",
+      "tr":"Bedavaya yemek olmaz.",
+      "sound_src":"assets/sounds/3_en.mp3"
+    },
+    {
+        "en":"Two wrongs don’t make a right",
+        "tr":"İki yanlış bir doğru etmez.",
+        "sound_src":"assets/sounds/4_en.mp3"
+      },
+      {
+        "en":"You can’t make an omelette without breaking eggs",
+        "tr":"Yumurtaları kırmadan, omlet yapamazsın.",
+        "sound_src":"assets/sounds/5_en.mp3"
+      },
+      {
+        "en":"Don’t judge a book by its cover",
+        "tr":"Kitabı kapağına göre yargılama.",
+        "sound_src":"assets/sounds/6_en.mp3"
+      },
+      {
+        "en":"Don’t count your chickens before they hatch",
+        "tr":"Yumurtlamadan önce, tavuklarını sayma.",
+        "sound_src":"assets/sounds/7_en.mp3"
+      },
+      {
+        "en":"Two heads are better than one",
+        "tr":"İki kafa bir tanesinden iyidir.",
+        "sound_src":"assets/sounds/8_en.mp3"
+      },  
+      {
+        "en":"Don’t put all your eggs in one basket",
+        "tr":"Aynı sepete tüm yumurtalarını koyma.",
+        "sound_src":"assets/sounds/9_en.mp3"
+      },
+      {
+        "en":"Too many cooks spoil the broth",
+        "tr":"Aynı çorbayı bir sürü asçı aynı anda yaparsa, o çorba mahvolur.",
+        "sound_src":"assets/sounds/10_en.mp3"
+      }
+]

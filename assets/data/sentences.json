@@ -1,0 +1,103 @@
+[
+    {
+      "en": "What’s up?",
+      "tr": "Naber?",
+      "soundSrc": "assets/sounds_kalip/1_en.mp3"
+    },
+    {
+      "en": "So so",
+      "tr": "İdare eder.",
+      "soundSrc": "assets/sounds_kalip/2_en.mp3"
+    },
+    {
+      "en": "How is it going?",
+      "tr": "Nasıl gidiyor?",
+      "soundSrc": "assets/sounds_kalip/3_en.mp3"
+    },
+    {
+      "en": "Let’s go!",
+      "tr": "Haydi gidelim!",
+      "soundSrc": "assets/sounds_kalip/4_en.mp3"
+    },
+    {
+      "en": "Let’s go on!",
+      "tr": "Devam edelim!",
+      "soundSrc": "assets/sounds_kalip/5_en.mp3"
+    },
+    {
+      "en": "Give me a hand!",
+      "tr": "Yardım et, bir el at!",
+      "soundSrc": "assets/sounds_kalip/6_en.mp3"
+    },
+    {
+      "en": "I will see to it!",
+      "tr": "İlgileneceğim, bakacağım.",
+      "soundSrc": "assets/sounds_kalip/7_en.mp3"
+    },
+    {
+      "en": "Get out of here!",
+      "tr": "Defol buradan!",
+      "soundSrc": "assets/sounds_kalip/8_en.mp3"
+    },
+    {
+      "en": "My head is killing me!",
+      "tr": "Başım beni öldürüyor!",
+      "soundSrc": "assets/sounds_kalip/9_en.mp3"
+    },
+    {
+      "en": "What a beatiful girl!",
+      "tr": "Ne güzel bir kız!",
+      "soundSrc": "assets/sounds_kalip/10_en.mp3"
+    },
+    {
+      "en": "I am broke! ",
+      "tr": "Parasızım!",
+      "soundSrc": "assets/sounds_kalip/11_en.mp3"
+    },
+    {
+      "en": "I am hungry!",
+      "tr": "Açım!",
+      "soundSrc": "assets/sounds_kalip/12_en.mp3"
+    },
+    {
+      "en": "I am starving!",
+      "tr": "Açlıktan ölüyorum!",
+      "soundSrc": "assets/sounds_kalip/13_en.mp3"
+    },
+    {
+      "en": "Don’t get me wrong!",
+      "tr": "Beni yanlış anlama!",
+      "soundSrc": "assets/sounds_kalip/14_en.mp3"
+    },
+    {
+      "en": "It sounds good!",
+      "tr": "Kulağa hoş geliyor!",
+      "soundSrc": "assets/sounds_kalip/15_en.mp3"
+    },
+    {
+      "en": "It is beyond me!",
+      "tr": "Bu beni aşar!",
+      "soundSrc": "assets/sounds_kalip/16_en.mp3"
+    },
+    {
+      "en": "It is up to you! ",
+      "tr": "Sana bağlı, sen bilirsin.",
+      "soundSrc": "assets/sounds_kalip/17_en.mp3"
+    },
+    {
+      "en": "You can trust me!",
+      "tr": "Bana güvenebilirsin!",
+      "soundSrc": "assets/sounds_kalip/18_en.mp3"
+    },
+    {
+      "en": "Lets get to the point!",
+      "tr": "Sadede gelelim!",
+      "soundSrc": "assets/sounds_kalip/19_en.mp3"
+    },
+    {
+      "en": "Guess what!",
+      "tr": "Bil bakalım!",
+      "soundSrc": "assets/sounds_kalip/20_en.mp3"
+    }
+  
+  ]
